@@ -1,0 +1,11 @@
+.idea
+**/__pycache__
+**/*egg-info
+data
+train_exps
+data.zip
+exps.txt
+test_all.sh
+test_cycped.sh
+ngsim_env/pedcyc_env/motion*
+

@@ -29,7 +29,7 @@ Install local packages:
 1. `cd rllab && pip install -e . && cd -`
 2. `cd hgail && pip install -e . && cd -`
 3. `cd ngsim_env/pedcyc_env && pip install -e . && cd -`
-
+4. `cd ngsim_env/py_env_simple && pip install -e . && cd -`
 
 
 
